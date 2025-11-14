@@ -17,7 +17,7 @@ Aquí están los componentes necesarios para construir el prototipo completo. Sa
 ### 3. Chasis y Movimiento
 * 1x Kit de Chasis 2WD (incluye motores y ruedas)
 * 1x Rueda loca
-* 1x Controlador de Motores (Driver ULN2003)
+* 1x Controlador de Motores (Driver L298N)
 
 ### 4. Alimentación
 * 1x Portapilas (4x AA)
