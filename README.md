@@ -27,7 +27,7 @@ Aquí están los componentes necesarios para construir el prototipo completo. Sa
 * 1x Mini Protoboard
 * Set de Cables Jumper (M-M y M-H)
 
-<img width="2919" height="2403" alt="LineFollwerRobot" src="https://github.com/user-attachments/assets/68f36b64-defe-40f5-bbbc-d12a862a6d74" />
+<img width="742" height="674" alt="Captura de pantalla 2025-12-05 121351" src="https://github.com/user-attachments/assets/8e418a30-8ad8-41d3-93da-62f8fa905dcc" />
 
 
 ---
