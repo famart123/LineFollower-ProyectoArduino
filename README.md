@@ -37,7 +37,7 @@ Seguimos la metodología Agile con entregas quincenales.
 * **Fecha límite:** 14 de Noviembre.
 * [cite_start]**Objetivo:** Lectura de sensores, uso de variables, estructuras condicionales y depuración[cite: 10].
 * **Entregable:** Código capaz de distinguir entre blanco y negro usando el Monitor Serie.
-* **📂 Código:** [Ver Código del Sprint 1](./Sprint_1/sprint1_sensores.ino) *(Asegúrate de que este enlace funcione)*
+* **📂 Código:** [Ver Código del Sprint 1](./Sprint_1/sprint1_sensores.ino)
 
 ---
 
@@ -48,7 +48,7 @@ Seguimos la metodología Agile con entregas quincenales.
     * Implementación de **funciones propias** para el movimiento: `avanzar()`, `retroceder()`, `parar()`.
     * Control de motores mediante **Driver L293D** en simulación Tinkercad.
     * Separación de la lógica de movimiento del bucle principal (`loop`).
-* **📂 Código:** [Ver Código del Sprint 2](./Sprint_2/sprint2_motores.ino) *(Sube tu archivo .ino y pon el enlace aquí)*
+* **📂 Código:** [Ver Código del Sprint 2](./Sprint_2/sprint2_motores.ino)
 
 **📸 Evidencia del Circuito (Tinkercad):**
 *(Aquí va tu captura de pantalla mostrando el Arduino conectado al chip L293D y los motores)*
